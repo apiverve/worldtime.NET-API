@@ -32,9 +32,9 @@ From within Visual Studio:
 
 1. Open the Solution Explorer.
 2. Right-click on a project within your solution.
-3. Click on Manage NuGet Packages...
+3. Click on Manage NuGet Packages..
 4. Click on the Browse tab and search for "APIVerve.API.WorldTime".
-5. Click on the APIVerve.API.WorldTime package, select the appropriate version in the right-tab and click Install.
+5. Click on the APIVerve.API.WorldTime package, click Install.
 
 
 ---
@@ -104,17 +104,17 @@ if(response.error != null) {
         "iso3": "ARG",
         "province": "Córdoba",
         "timezone": "America/Argentina/Cordoba",
-        "time": "06:40",
-        "time24": "06:40:38",
-        "time12": "06:40:38 AM",
-        "date": "2024-09-01",
-        "day": "Sunday",
-        "month": "September",
-        "year": "2024",
-        "unix": "1725183638",
+        "time": "18:36",
+        "time24": "18:36:10",
+        "time12": "06:36:10 PM",
+        "date": "2025-02-20",
+        "day": "Thursday",
+        "month": "February",
+        "year": "2025",
+        "unix": "1740087370",
         "dst": false,
-        "dst_start": "2024-09-01 06:40:38",
-        "dst_end": "2024-09-01 06:40:38",
+        "dst_start": "2025-02-20 18:36:10",
+        "dst_end": "2025-02-20 18:36:10",
         "dst_name": "-03"
       },
       {
@@ -126,18 +126,18 @@ if(response.error != null) {
         "province": "California",
         "state_ansi": "CA",
         "timezone": "America/Los_Angeles",
-        "time": "02:40",
-        "time24": "02:40:38",
-        "time12": "02:40:38 AM",
-        "date": "2024-09-01",
-        "day": "Sunday",
-        "month": "September",
-        "year": "2024",
-        "unix": "1725183638",
-        "dst": true,
-        "dst_start": "2024-09-01 02:40:38",
-        "dst_end": "2024-09-01 02:40:38",
-        "dst_name": "PDT"
+        "time": "13:36",
+        "time24": "13:36:10",
+        "time12": "01:36:10 PM",
+        "date": "2025-02-20",
+        "day": "Thursday",
+        "month": "February",
+        "year": "2025",
+        "unix": "1740087370",
+        "dst": false,
+        "dst_start": "2025-02-20 13:36:10",
+        "dst_end": "2025-02-20 13:36:10",
+        "dst_name": "PST"
       }
     ]
   },
@@ -167,7 +167,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
